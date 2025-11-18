@@ -2,3 +2,6 @@ a = 5
 b = 7
 sum = a + b
 print("Sum:", sum)
+
+a, b = 4, 6
+print(a * b)
